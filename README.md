@@ -1,4 +1,4 @@
-# Intelligent Handwritten Digit Classifier
+#  Handwritten Digit Classifier
 
 A professional-grade deep learning project that classifies handwritten digits (0–9) with high accuracy using Convolutional Neural Networks (CNNs). Designed for educational, demonstrative, and deployment purposes.
 
